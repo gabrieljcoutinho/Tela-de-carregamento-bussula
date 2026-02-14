@@ -32,9 +32,4 @@ A implementação foca em suavidade matemática para replicar a física de um im
 * **SVG Vectorial:** Garante que os detalhes da rosa dos ventos permaneçam nítidos em qualquer zoom.
 * **CSS Custom Properties:** Permite mudar o "Norte" da bússola dinamicamente via JavaScript.
 
-### Exemplo de Dinâmica da Agulha:
-```css
-.compass-needle {
-  transition: transform 1.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
-  /* Simula o balanço elástico da agulha magnética */
-}
+<img width="228" height="243" alt="Image" src="https://github.com/user-attachments/assets/03322055-5a1a-4a98-acf7-d8c4addabcd9" />
